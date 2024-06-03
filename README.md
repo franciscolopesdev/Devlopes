@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Horus 😁
+## Bem-vindo(a) ao perfil do Dev Lopes😁
 
  <div>
    <a href="https://github.com/Horus2504">
